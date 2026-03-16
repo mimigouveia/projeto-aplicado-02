@@ -1,8 +1,8 @@
 ​Objetivo e Meta do Projeto; Pagina 3 
 ​Contexto do Estudo; Pagina 3 
-​Por que os dados são importantes para as escolas?; Pagina 4 
-​Pensamento Computacional e Uso dos Dados no INEP; Pagina 4 
+A importância da análise de imagens e dados digitais; Pagina 4 
+Inteligência Artificial e Manipulação de Narrativas Digitais; Pagina 4 
 ​Descrição do Dataset; Pagina 5 
-​Referências de Aquisição do Dataset; Pagina 5 
-​Cronograma; Pagina 6 
-​Link do Github do Projeto; Pagina 7​ 
+​Referências de Aquisição do Dataset; Pagina 7 
+​Cronograma; Pagina 8 
+​Link do Github do Projeto; Pagina 8​ 
