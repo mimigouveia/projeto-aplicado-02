@@ -1,0 +1,11 @@
+Etapa;Objetivo;Integrante;Aplicacao;Data ;;;;;
+Planejamento geral;Definir as metas e o que o projeto vai entregar;Dominique, Fernanda, Milena, Nicolly;"Definir metas e objetivos do grupo";Primeira metade de Março;;;;;
+Coleta de dados;Obter o banco de imagens para estudo (CASIA 2.0);Dominique, Fernanda;"Download e validação do CASIA 2.0; Pesquisa de artigos sobre o dataset";Fim da primeira metade de Março;;;;;
+Análise de Arquivos;Entender como as fotos são salvas e organizadas;Milena, Nicolly;"Estudo de formatos JPEG e TIFF; Identificar metadados e resoluções";Segunda metade de Março;;;;;
+Preparação da base;Organizar as fotos para começar os testes;Fernanda, Dominique;"Padronização e limpeza dos arquivos; Separar fotos reais das manipuladas";Segunda metade de Março;;;;;
+Identificacao de fraudes;Descobrir como as imagens foram alteradas;Nicolly;Mapear técnicas de Spicing e Copy-Move através da análise de indícios de manipulação visual;Fim de Março a Inicio de Abril;;;;;
+Criação do Sistema;Ensinar o computador a identificar fotos falsas;Fernanda;Treinar modelo de IA para detecção;Primeira metade de Abril;;;;;
+Protótipo (interface);Criar uma tela simples para testar novas imagens;Dominique;Criar tela de upload para análise;Primeira metade a segunda metade de Abril;;;;;
+Simulação de casos;Testar o sistema com tentativas de golpes reais;Milena;Validar a detecção do sistema em cenários de fraude digital simulada;Segunda metade de Abril;;;;;
+Avaliacao de resultados;Conferir se o sistema acertou a maioria dos testes;Dominique, Fernanda, Nicolly, Milena;"Validar acertos e desempenho da IA; Medir eficácia contra prejuízos";Segunda metade de Abril a Primeira metade de Maio;;;;;
+Entrega final;Apresentar os resultados e a conclusão do grupo;Dominique, Fernanda, Nicolly, Milena;Gerar os gráficos finais e documentar o projeto no Github;Segunda metade de Maio;;;;;
