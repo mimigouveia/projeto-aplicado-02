@@ -1,0 +1,3 @@
+A PixelTrust tem como principal objetivo, desenvolver soluções baseadas em inteligência artificial capazes 
+de identificar e prevenir fraudes digitais causadas por manipulação de imagens e deepfakes, 
+protegendo empresas e comércios contra reclamações falsas e prejuízos financeiros. 

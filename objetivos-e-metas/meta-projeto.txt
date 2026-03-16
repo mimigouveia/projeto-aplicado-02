@@ -1,0 +1,2 @@
+Detectar manipulações em imagens e vídeos enviados por clientes em reclamações ou solicitações de reembolso 
+e criar um sistema de análise de evidências visuais, verificando se uma imagem foi modificada artificialmente. 

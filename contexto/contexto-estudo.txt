@@ -1,0 +1,18 @@
+Com o avanço acelerado da inteligência artificial e das tecnologias de edição digital, tornou-se cada vez 
+mais fácil modificar imagens e vídeos de forma extremamente realista. 
+Ferramentas modernas permitem alterar elementos visuais, inserir ou remover objetos, modificar cenários 
+e até mesmo criar conteúdos totalmente sintéticos, conhecidos como deepfakes. 
+Embora essas tecnologias tragam benefícios em diversas áreas, também ampliam os riscos de uso indevido, 
+especialmente em situações envolvendo comprovação visual de fatos. 
+
+No ambiente digital atual, empresas e comércios frequentemente dependem de imagens e vídeos enviados por 
+clientes como evidência para registros de reclamações, solicitações de reembolso, garantia de produtos 
+ou análise de ocorrências. No entanto, quando esses conteúdos são manipulados intencionalmente, 
+podem gerar interpretações equivocadas, decisões injustas e prejuízos financeiros significativos 
+para as organizações. 
+
+Diante desse cenário, surge a necessidade de desenvolver soluções tecnológicas capazes de analisar a 
+autenticidade de conteúdos visuais e identificar possíveis indícios de manipulação digital. 
+A utilização de inteligência artificial para esse tipo de análise torna-se uma alternativa promissora, 
+pois permite automatizar a verificação de imagens e vídeos, detectando padrões suspeitos que muitas vezes não 
+são perceptíveis ao olhar humano.
