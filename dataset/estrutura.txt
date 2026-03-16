@@ -1,0 +1,20 @@
+O CASIA 2.0 é composto por dois principais tipos de imagens: 
+
+Imagens autênticas (Authentic Images): 
+Fotografias que não sofreram nenhum tipo de alteração digital. 
+
+Imagens manipuladas (Tampered Images):
+Imagens que foram modificadas artificialmente utilizando diferentes técnicas de edição. 
+
+O dataset contém aproximadamente: 
+7.491 imagens autênticas; 
+5.123 imagens manipuladas. 
+
+As manipulações presentes no dataset incluem principalmente: 
+
+Copy-Move:
+Técnica na qual uma parte da imagem é copiada e colada em outra região da mesma imagem, geralmente 
+para esconder ou alterar algum elemento. 
+
+Image Splicing:
+Técnica que consiste em combinar partes de diferentes imagens para criar uma nova imagem manipulada.  

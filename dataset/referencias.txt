@@ -1,0 +1,6 @@
+Origem dos dados: 
+
+CASIA 2.0 Image Tampering Detection Dataset: obtidos diretamente pelo kaggle 
+(https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset/data) , que disponibiliza 
+diversas bases de dados e funciona como uma comunidade onde pessoas podem aprender, praticar e competir usando 
+dados reais. 

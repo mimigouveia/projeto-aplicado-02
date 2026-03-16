@@ -1,0 +1,15 @@
+Os metadados e as características das imagens do dataset serão utilizados para treinar e avaliar o 
+sistema PixelTrust, permitindo: 
+
+Classificar imagens como autênticas ou manipuladas:
+O modelo de inteligência artificial aprenderá a reconhecer padrões associados a imagens alteradas. 
+
+Identificar inconsistências visuais e digitais:
+A análise dos metadados e da estrutura das imagens ajudará a detectar possíveis sinais de manipulação. 
+
+Treinar o sistema de detecção de fraude:
+O modelo será treinado para reconhecer manipulações semelhantes às que podem ocorrer em imagens 
+enviadas por clientes em reclamações ou solicitações de reembolso. 
+
+Avaliar o desempenho do modelo:
+Comparando as previsões do modelo com as classificações originais do dataset. 

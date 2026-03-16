@@ -1,0 +1,8 @@
+Dataset utilizado: CASIA 2.0 Image Tampering Detection Dataset 
+
+Para o desenvolvimento do projeto PixelTrust, será utilizado o CASIA 2.0 Image Tampering Detection Dataset, 
+um conjunto de dados amplamente utilizado em pesquisas na área de forense digital e detecção de manipulação 
+de imagens. 
+
+Esse dataset contém imagens autênticas e imagens manipuladas, permitindo o treinamento de modelos de 
+inteligência artificial capazes de identificar alterações digitais em conteúdos visuais. 

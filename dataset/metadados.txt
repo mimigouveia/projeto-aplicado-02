@@ -1,0 +1,15 @@
+Cada imagem presente no dataset possui informações que podem ser utilizadas como metadados para análise 
+forense digital, tais como: 
+
+Nome do arquivo: 
+Permite identificar se a imagem pertence ao conjunto de imagens autênticas ou manipuladas. 
+
+Formato da imagem:
+Geralmente em formatos como JPEG ou TIFF, possibilitando a análise de padrões de compressão e 
+possíveis inconsistências. 
+
+Resolução da imagem:
+Informação referente às dimensões da imagem em pixels. 
+
+Tipo de manipulação (no caso das imagens alteradas): 
+Indica o tipo de técnica utilizada para modificar a imagem.  

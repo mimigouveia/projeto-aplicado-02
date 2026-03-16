@@ -1,0 +1,35 @@
+Inteligência Artificial e Manipulação de Narrativas Digitais 
+
+ 
+O projeto aborda quatro temas principais relacionados à manipulação de conteúdo digital. 
+
+Manipulação da Narrativa Visual:  
+A narrativa visual refere-se à forma como imagens e vídeos são utilizados para transmitir uma mensagem 
+ou construir uma história. 
+Com o uso de ferramentas de edição e inteligência artificial, é possível modificar imagens para alterar 
+contextos ou reforçar determinadas interpretações da realidade. 
+Isso pode influenciar a opinião pública, criar informações enganosas ou gerar falsas percepções sobre 
+eventos e pessoas. 
+
+Construção de Identidade Digital:  
+A identidade digital é formada pelo conjunto de informações, imagens e conteúdos associados a uma pessoa 
+ou organização na internet. 
+A inteligência artificial permite alterar ou reconstruir essa identidade digital, por meio da criação de 
+imagens sintéticas, perfis falsos ou conteúdos manipulados. 
+Essa prática pode impactar reputações, marcas e relações comerciais. 
+
+Deepfakes: 
+Deepfakes são conteúdos audiovisuais gerados por inteligência artificial que simulam rostos, vozes ou 
+comportamentos de pessoas reais. 
+Essas tecnologias utilizam redes neurais profundas para criar vídeos ou imagens altamente realistas, 
+dificultando a identificação de conteúdos falsos. 
+Embora tenham aplicações legítimas em entretenimento e cinema, os deepfakes também podem ser utilizados para 
+fraudes, desinformação e manipulação de evidências. 
+
+Alteração Estética de Imagens:
+Ferramentas baseadas em inteligência artificial permitem modificar características visuais de imagens, como: 
+remoção de objetos; 
+alteração de iluminação;
+modificação de expressões faciais; 
+geração de cenários inexistentes.
+Essas alterações podem ser utilizadas tanto para fins criativos quanto para manipulação de evidências digitais. 
