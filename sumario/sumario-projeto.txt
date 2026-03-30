@@ -4,8 +4,14 @@ A Importância da Analise de Imagens e Dados Digitais; Pagina 4
 Inteligência Artificial e Manipulação de Narrativas Digitais; Pagina 4 
 ​Descrição do Dataset; Pagina 6
 Estrutura do Dataset; Pagina 6 
-Metadados do Dataset; Pagina 6
+Metadados do Dataset; Pagina 7
 Utilizacao dos Metadados no Projeto; Pagina 7
 ​Referências de Aquisição do Dataset; Pagina 8 
 ​Cronograma; Pagina 9
-​Link do Github do Projeto; Pagina 9​ 
+Definição do Produto Analitico; Pagina 10
+Ferramentas e Ambiente de Desenvolvimento; Pagina 10
+Analise Exploratoria dos Dados; Pagina 10
+Metodo Analitico Escolhido; Pagina 12
+Fundamentacao Teorica; Pagina 12
+Metricas de Avaliacao do Modelo; Pagina 13
+​Link do Github do Projeto; Pagina 16
