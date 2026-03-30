@@ -1,0 +1,17 @@
+O método analítico selecionado para o projeto é a classificação
+supervisionada, uma técnica de aprendizado de máquina que permite
+categorizar dados com base em exemplos previamente rotulados.
+
+No contexto do projeto PixelTrust, o objetivo é classificar imagens em
+duas categorias:
+
+ - Imagem autêntica
+ - Imagem manipulada
+
+Para isso, será utilizado um modelo baseado em Redes Neurais
+Convolucionais (CNN – Convolutional Neural Networks), amplamente aplicadas
+em tarefas de visão computacional.
+
+As CNNs são especialmente adequadas para este tipo de problema, pois
+conseguem identificar padrões espaciais, texturas e características visuais que
+indicam possíveis manipulações em imagens.

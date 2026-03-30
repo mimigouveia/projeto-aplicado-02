@@ -1,0 +1,17 @@
+A análise exploratória será realizada com base no dataset CASIA 2.0
+Image Tampering Detection Dataset, previamente definido na etapa anterior.
+Nesta fase, serão analisados os seguintes aspectos:
+
+ - Quantidade total de imagens
+ - Distribuição entre imagens autênticas e manipuladas
+ - Tipos de arquivos (JPEG, TIFF)
+ - Dimensões das imagens (resolução)
+ - Identificação de padrões visuais entre imagens reais e
+alteradas
+
+Além disso, serão exibidos exemplos visuais de ambos os tipos de
+imagens, permitindo uma melhor compreensão das diferenças entre conteúdos
+autênticos e manipulados.
+
+Essa etapa é fundamental para entender a estrutura dos dados e orientar
+as etapas seguintes de preparação e modelagem. 

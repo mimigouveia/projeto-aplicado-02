@@ -1,0 +1,15 @@
+O projeto baseia-se em conceitos fundamentais de Aprendizado de
+Máquina (Machine Learning) e Visão Computacional.
+
+A classificação supervisionada consiste em treinar um modelo utilizando
+dados rotulados, permitindo que ele aprenda padrões e realize previsões sobre
+novos dados.
+
+As Redes Neurais Convolucionais (CNN) são um tipo de modelo de deep
+learning projetado especificamente para o processamento de imagens. Elas
+utilizam camadas convolucionais para extrair características relevantes das
+imagens, como bordas, texturas e formas.
+
+Essas características são utilizadas para identificar padrões associados a
+imagens manipuladas, tornando as CNNs altamente eficazes na detecção de
+fraudes visuais.

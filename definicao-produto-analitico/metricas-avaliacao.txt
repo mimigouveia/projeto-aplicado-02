@@ -1,0 +1,95 @@
+Para avaliar o desempenho do modelo desenvolvido, serão utilizadas
+métricas de classificação amplamente adotadas na literatura:
+
+- Acurácia (Accuracy)
+Mede a proporção de previsões corretas em relação ao total de previsões
+realizadas.
+
+- Precisão (Precision)
+Avalia a proporção de imagens corretamente classificadas como
+manipuladas entre todas as classificadas como manipuladas.
+
+- Recall (Sensibilidade)
+Mede a capacidade do modelo de identificar corretamente imagens
+manipuladas.
+
+- F1-Score
+Média harmônica entre precisão e recall, oferecendo uma avaliação
+equilibrada do modelo.
+
+Essas métricas permitirão avaliar a eficácia do sistema na identificação de
+fraudes digitais, contribuindo para a validação da solução proposta pelo projeto
+PixelTrust.
+
+Para o desenvolvimento e aprimoramento do algoritmo da empresa
+PixelTrust, voltado à identificação de imagens alteradas ou geradas por
+inteligência artificial, é necessário adotar uma abordagem multidimensional,
+combinando diferentes técnicas de análise computacional. Isso se deve ao fato
+de que métodos isolados tendem a apresentar limitações diante da crescente
+sofisticação dos modelos generativos.
+
+Inicialmente, destaca-se a utilização de modelos avançados de visão
+computacional. Embora redes neurais convolucionais (CNNs) ainda sejam
+amplamente empregadas, arquiteturas mais recentes, como os Vision
+Transformers (ViT), demonstram capacidade na captura de padrões globais da
+imagem. Essa característica permite identificar inconsistências semânticas e
+estruturais que não são facilmente detectadas por métodos tradicionais. A
+implementação desses modelos pode ser realizada por meio de frameworks
+como PyTorch, aliados a bibliotecas especializadas. Além da análise visual
+direta, torna-se fundamental explorar características técnicas não perceptíveis
+ao olho humano. Nesse contexto, a análise no domínio de frequência, por meio
+de transformadas como Fourier (FFT) ou DCT, permite identificar padrões
+recorrentes em imagens sintéticas. Paralelamente, a análise de ruído (noise
+fingerprinting) possibilita distinguir imagens capturadas por sensores reais —
+que possuem assinaturas físicas específicas — de imagens geradas
+artificialmente, que carecem dessa consistência.
+
+Outro componente relevante que utilizamos dentro da Pixel é a detecção
+de marcas d’água invisíveis (watermarks). Alguns modelos de geração de
+imagem incorporam assinaturas imperceptíveis ao conteúdo visual, e sua
+identificação pode fornecer evidências robustas sobre a origem da imagem. A
+integração desse tipo de verificação contribui significativamente para o aumento
+da precisão do sistema.
+
+Adicionalmente, a análise de coerência física da imagem representa uma
+etapa importante. Mesmo com avanços recentes, imagens geradas por IA ainda
+podem apresentar inconsistências relacionadas à iluminação, sombras, reflexos
+e proporções anatômicas. A utilização de ferramentas específicas permite avaliar
+esses aspectos de forma estruturada, contribuindo para a detecção de
+anomalias.
+
+Um dos pilares fundamentais da proposta é a adoção de uma abordagem
+em ensemble. Em vez de depender de um único classificador, o sistema combina
+múltiplos módulos de análise, incluindo classificação visual, análise de
+frequência, detecção de ruído e verificação de watermark — cujos resultados
+são integrados por um modelo final responsável por gerar um índice de
+confiabilidade. Essa estratégia aumenta a robustez e reduz a taxa de erros.
+
+A qualidade e diversidade dos dados de treinamento também
+desempenham papel crucial. É imprescindível utilizar conjuntos de dados que
+incluam tanto imagens reais (provenientes de diferentes dispositivos e
+condições) quanto imagens geradas por variados modelos de IA. Além disso,
+deve-se considerar a inclusão de imagens submetidas a processos de
+compressão e redimensionamento, comuns em ambientes digitais, como redes
+sociais.
+
+Outro aspecto relevante é a robustez do sistema frente a manipulações
+adversariais. Para isso, recomenda-se o uso de técnicas de aumento de dados
+(data augmentation), incluindo variações como desfoque, ruído e compressão,
+de modo a preparar o modelo para cenários reais e tentativas de evasão.
+Por fim, destaca-se a importância da explicabilidade dos resultados. Em
+aplicações práticas, não é suficiente apenas classificar uma imagem como “real”
+ou “gerada por IA”; é necessário fornecer justificativas interpretáveis para a
+decisão. Técnicas de visualização, como mapas de ativação, permitem
+identificar as regiões da imagem que mais influenciaram a classificação,
+aumentando a transparência e a confiabilidade do sistema. Por exemplo: Um
+restaurante em que possa ser afetado por esse recurso, também avaliamos o
+histórico do estabelecimento para ter uma tomada de decisão justa e não
+somente baseada em um único fator.
+
+Dessa forma, o algoritmo da PixelTrust é estruturado como um pipeline
+integrado, no qual a imagem passa por etapas de pré-processamento, análise
+paralela por diferentes módulos e posterior fusão dos resultados. Essa
+abordagem permite não apenas melhorar a acurácia da detecção, mas também
+preparar o sistema para acompanhar a evolução contínua das tecnologias de
+geração de imagens por inteligência artificial.

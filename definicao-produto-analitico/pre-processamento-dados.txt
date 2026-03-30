@@ -1,0 +1,24 @@
+O pré-processamento dos dados é uma etapa essencial para garantir a
+qualidade do treinamento do modelo de inteligência artificial.
+As principais etapas de tratamento dos dados incluem:
+
+- Separação das imagens em classes:
+- Imagens autênticas
+- Imagens manipuladas
+- Redimensionamento das imagens:
+Padronização para dimensões fixas (exemplo: 224x224 pixels),
+permitindo compatibilidade com modelos de deep learning.
+
+ - Normalização dos dados:
+Ajuste dos valores dos pixels para uma escala adequada (exemplo: entre
+0 e 1).
+
+ - Remoção de arquivos inválidos ou corrompidos:
+Garantindo a integridade da base de dados.
+
+ - Divisão do dataset:
+ - Conjunto de treino (training set)
+ - Conjunto de teste (test set)
+ 
+Esse processo permitirá que o modelo seja treinado de forma eficiente e
+avaliado corretamente.
