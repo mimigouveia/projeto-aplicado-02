@@ -1,0 +1,11 @@
+- pandas: manipulação e organização de dados
+- numpy: operações matemáticas e vetoriais
+- matplotlib e seaborn: visualização de dados
+- opencv (cv2) e Pillow (PIL): processamento de imagens
+- scikit-learn: implementação de modelos de machine learning
+- tensorflow / keras: desenvolvimento de modelos de deep learning
+(CNN)
+
+O projeto será versionado utilizando a plataforma GitHub,
+possibilitando o trabalho colaborativo, controle de versões e organização
+do código-fonte. 
