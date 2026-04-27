@@ -1,0 +1,45 @@
+O método analítico definido, baseado em classificação supervisionada por
+meio de Redes Neurais Convolucionais (CNN), foi aplicado ao dataset CASIA
+2.0 Image Tampering Detection Dataset, disponível na plataforma Kaggle.
+O referido dataset é amplamente utilizado em pesquisas de forense
+digital, sendo composto por aproximadamente 7.491 imagens autênticas e 5.123
+imagens manipuladas, incluindo diferentes tipos de adulteração, como copymove e image splicing.
+Inicialmente, foi realizada a etapa de pré-processamento dos dados, na
+qual as imagens foram organizadas em duas classes (autênticas e
+manipuladas), conforme a estrutura original do dataset. Em seguida, aplicaramse técnicas de padronização, incluindo:
+- Redimensionamento das imagens para dimensões fixas (224x224 pixels);
+- Normalização dos valores dos pixels para o intervalo [0,1];
+- Remoção de arquivos inconsistentes ou corrompidos.
+Posteriormente, o conjunto de dados foi dividido em subconjuntos de
+treinamento e teste, garantindo a avaliação da capacidade de generalização do
+modelo e evitando problemas como overfitting.
+Na etapa de modelagem, foi implementada uma Rede Neural
+Convolucional (CNN) utilizando bibliotecas como TensorFlow e Keras, conforme
+desenvolvido no ambiente Google Colab e disponibilizado no repositório do
+projeto. A arquitetura do modelo é composta por camadas convolucionais
+responsáveis pela extração de características, camadas de pooling para redução
+de dimensionalidade e camadas densas responsáveis pela classificação final.
+Durante o treinamento, o modelo foi capaz de identificar automaticamente
+padrões relevantes nas imagens, tais como bordas, texturas, inconsistências de
+compressão e artefatos digitais. Esses padrões são essenciais para a detecção
+de manipulações presentes no dataset, especialmente aquelas geradas por
+técnicas como copy-move e image splicing, amplamente utilizadas em fraudes
+digitais.
+Adicionalmente, a aplicação do método analítico foi ampliada por meio de
+uma abordagem complementar, incorporando técnicas como análise no domínio
+de frequência (FFT/DCT) e análise de ruído digital, que permitem identificar
+padrões não perceptíveis ao olho humano. Essa abordagem contribui para o
+aumento da robustez do modelo diante de manipulações mais sofisticadas.
+Os resultados das diferentes análises são integrados por meio de uma
+estratégia baseada em ensemble, na qual múltiplos módulos contribuem para a
+decisão final do sistema, gerando uma classificação acompanhada de um índice
+de confiabilidade.
+Por fim, o modelo foi avaliado utilizando o conjunto de teste, sendo seu
+desempenho mensurado por meio das métricas de acurácia, precisão, recall e
+F1-score. Os resultados obtidos demonstram que o método analítico aplicado é
+adequado para a identificação de manipulações em imagens digitais, validando
+sua aplicação no contexto do projeto PixelTrust.
+Dessa forma, o processo analítico caracteriza-se como estruturado,
+reprodutível e fundamentado em técnicas consolidadas de aprendizado de
+máquina e visão computacional, garantindo confiabilidade e aderência aos
+objetivos do projeto. 
