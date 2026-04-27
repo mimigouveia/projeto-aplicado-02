@@ -1,0 +1,38 @@
+A eficácia do PixelTrust na detecção de manipulações de imagens
+depende fundamentalmente da precisão do seu modelo analítico. Após a
+aplicação de Redes Neurais Convolucionais (CNN) e técnicas de análise no
+domínio da frequência sobre o dataset, torna-se indispensável quantificar o
+desempenho do classificador através de métricas estatísticas que comprovem
+sua viabilidade técnica e segurança.
+Foram selecionadas quatro medidas de acurácia que, em conjunto,
+oferecem uma visão holística da capacidade preditiva do sistema.
+
+Acurácia Global
+Está métrica representa a taxa geral de acerto do modelo, sendo o
+quociente entre o total de previsões corretas pelo total de amostras testadas.
+Embora seja um indicador primário importante, a acurácia global é
+complementada por outras métricas para garantir que o modelo não esteja
+enviesado por uma classe predominante.
+
+Precisão
+A precisão mede a confiabilidade dos alertas gerados. Uma precisão
+elevada indica que, quando o sistema classifica uma imagem como
+“manipulada”, há uma baixa ocorrência de falsos positivos. Isso é indispensável
+para evitar que imagens legítimas sejam injustamente marcadas como “falsas”
+em redes sociais ou ambientes corporativos.
+
+Recall
+Esta medida foca na capacidade do modelo em encontrar todas as
+fraudes existentes no conjunto de dados. Um alto índice de recall indica que o
+sistema é sensível o suficiente para detectar até mesmo manipulações sutis,
+minimizando os falsos negativos.
+
+F1-Score
+O F1-Score é utilizado para confirmar que o modelo mantém um equilíbrio
+saudável entre a precisão do alerta e a sensibilidade de detecção, validando os
+módulos de análise de ruído digital implementados.
+
+A aplicação dessas medidas de acurácia demonstra que o método
+analítico adotado é tecnicamente sólido e capaz de fornecer um índice de
+confiabilidade que sustenta os objetivos de integridade e transparência do
+PixelTrust. 
