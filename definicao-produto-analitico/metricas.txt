@@ -1,0 +1,22 @@
+Para avaliar o desempenho do modelo desenvolvido, serão utilizadas
+métricas de classificação amplamente adotadas na literatura:
+
+- Acurácia (Accuracy)
+Mede a proporção de previsões corretas em relação ao total de previsões
+realizadas.
+
+- Precisão (Precision)
+Avalia a proporção de imagens corretamente classificadas como
+manipuladas entre todas as classificadas como manipuladas.
+
+- Recall (Sensibilidade)
+Mede a capacidade do modelo de identificar corretamente imagens
+manipuladas.
+
+- F1-Score
+Média harmônica entre precisão e recall, oferecendo uma avaliação
+equilibrada do modelo.
+
+Essas métricas permitirão avaliar a eficácia do sistema na identificação de
+fraudes digitais, contribuindo para a validação da solução proposta pelo projeto
+PixelTrust.
