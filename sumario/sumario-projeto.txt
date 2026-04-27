@@ -2,16 +2,20 @@
 ​Contexto do Estudo; Pagina 3 
 A Importância da Analise de Imagens e Dados Digitais; Pagina 4 
 Inteligência Artificial e Manipulação de Narrativas Digitais; Pagina 4 
-​Descrição do Dataset; Pagina 6
+​Descrição do Dataset; Pagina 5
 Estrutura do Dataset; Pagina 6 
-Metadados do Dataset; Pagina 7
+Metadados do Dataset; Pagina 6
 Utilizacao dos Metadados no Projeto; Pagina 7
 ​Referências de Aquisição do Dataset; Pagina 8 
 ​Cronograma; Pagina 9
-Definição do Produto Analitico; Pagina 10
-Ferramentas e Ambiente de Desenvolvimento; Pagina 10
-Analise Exploratoria dos Dados; Pagina 10
-Metodo Analitico Escolhido; Pagina 12
-Fundamentacao Teorica; Pagina 12
-Metricas de Avaliacao do Modelo; Pagina 13
+Definição do Produto Analitico; Pagina 9
+Ferramentas e Ambiente de Desenvolvimento; Pagina 9
+Analise Exploratoria dos Dados; Pagina 9
+Metodo Analitico Escolhido; Pagina 11
+Fundamentacao Teorica; Pagina 11
+Metricas de Avaliacao do Modelo; Pagina 12
+Aplicação do Método Analitico; Pagina 15
+Medidas de Acuracia; Pagina 17
+Descrição dos Resultados Preliminares; Pagina 18
+Storytelling da PixelTrust; Pagina 20
 ​Link do Github do Projeto; Pagina 16
